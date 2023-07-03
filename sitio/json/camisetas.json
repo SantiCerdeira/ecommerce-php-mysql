@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "titulo":"Camiseta de Argentina 1986",
+        "imagen": "img/remeraArgentina.png",
+        "precio" : 14999,
+        "año": 1986,
+        "descripcion": "Camiseta retro de Argentina, la mítica albiceleste del 86, testigo de grandes momentos de la historia del fútbol. Entre otros el mejor gol del siglo XX marcado por Diego Armando Maradona, el gol de la Mano de Dios y de la victoria Argentina en el Mundial de 1986.",
+        "pais": "Argentina"
+    },
+    {
+        "id": 2,
+        "titulo":"Camiseta de Brasil 1970",
+        "imagen": "img/remeraBrasil.png",
+        "precio" : 12999,
+        "año": 1970,
+        "descripcion": "La camiseta retro de Brasil del Mundial de México 70. La Selección brasileña considerada a día de hoy la mejor de todos los tiempos y Campeona del Mundo por tercera vez para retener la copa Jules Rimet. La selección de Carlos Alberto, Jairzinho, Tostao, Gerson, Rivelino y, sin duda alguna, O Rey Pelè. Los Mundiales del 70 fueron el punto más alto de esta generación. En la primera fase de grupos, tres victorias de tres para Brasil (despachada también la Inglaterra campeona por 1-0) con Pelé y Jairzinho goleadores.",
+        "pais": "Brasil"
+    },
+    {
+        "id": 3,
+        "titulo":"Camiseta de Francia 1966",
+        "imagen": "img/remeraFrancia.png",
+        "precio" : 10999,
+        "año": 1966,
+        "descripcion": "Camiseta retro de Francia, la histórica camiseta con la que la selección francesa fue a jugar su sexto mundial en la historia y quedó recordado como uno de los mundiales más oscuros de su historia. La selección francesa quedó eliminada en fase de grupos luego de perder sus primeros dos partidos ante Inglaterra y Uruguay y empatar el tercero ante México. A pesar del oscuro episodio, esta camiseta quedó como una de las que marcó la historia del fútbol frances.",
+        "pais": "Francia"
+    },
+    {
+        "id": 4,
+        "titulo":"Camiseta de Holanda 1974",
+        "imagen": "img/remeraHolanda.png",
+        "precio" : 11999,
+        "año": 1974,
+        "descripcion": "Camiseta de la selección holandesa en el mundial 1974, en el que la selección holandesa llegó a la final luego de hacer un mundial excelente junto a un Cruyff que estaba muy afilado. La selección holandesa consiguió aplastar a Brasil en la semifinal pero luego perdió la final frente a la Alemania Federal.",
+        "pais": "Holanda"
+    },
+    {
+        "id": 5,
+        "titulo":"Camiseta de Italia 1982",
+        "imagen": "img/remeraItalia.png",
+        "precio" : 9999,
+        "año": 1982,
+        "descripcion": "Camiseta de Italia en el mundial del 1982 en el que la selección italiana se consagró campeona luego de hacer una muy floja fase de grupos en la que milagrosamente consiguió pasar a octavos con tan solo tres empates. Luego, obtuvo un mejor desempeño en la fase eliminatoria y consiguió consagrarse campeona luego de 44 años ganándole a la Alemania Occidental.",
+        "pais": "Italia"
+    },
+    {
+        "id": 6,
+        "titulo":"Camiseta de Alemania 2012",
+        "imagen": "img/remeraAlemania.png",
+        "precio" : 17999,
+        "año": 2012,
+        "descripcion": "Camiseta con la que la selección alemana jugó la Eurocopa del año 2012. Alemania hizo una buana actuación con su figura que fue el volante Mesut Ozil, que se destacó por sus goles y asistencias. Pero a pesar de eso la selección italiana llegó para terminar con el sueño alemán ganándole en la semifinal.",
+        "pais": "Alemania"
+    },
+    {
+        "id": 7,
+        "titulo":"Camiseta de Dinamarca 1960",
+        "imagen": "img/remeraDinamarca.png",
+        "precio" : 10499,
+        "año": 1960,
+        "descripcion": "Camiseta que utilizó la selección Danesa en su debút histórico en una Eurocopa. Hasta esa década, el fútbol era algo muy poco común para los daneses, y este debút fue el que empezó a introducir a Dinamarca en el futbol internacional. Si bien su actuación no fue muy buena, definitivamente marcó la historia de este país.",
+        "pais": "Dinamarca"
+    },
+    {
+        "id": 8,
+        "titulo":"Remera de Escocia 1978",
+        "imagen": "img/remeraEscocia.png",
+        "precio" : 8999,
+        "año": 1978,
+        "descripcion": "Camiseta con la que la selección escocesa jugó en el mundial que se disputó en territorio argentino y quedó en la historia ya que a pesar de haber sido eliminados de forma muy temprana en ese poco tiempo fueron protagonistas de diversos escándalos relacionados al alcohol, drogas y demás. A pesar de ese no muy buen episodio, quedó en la historia ya que fue uno de los pocos mundiales en los que participó la selección escocesa.",
+        "pais": "Escocia"
+    },
+    {
+        "id": 9,
+        "titulo":"Camiseta de Inglaterra 1998",
+        "imagen": "img/remeraInglaterra.png",
+        "precio" : 11999,
+        "año": 1998,
+        "descripcion": "Camiseta visitante de la selección inglesa de 1998 con la que Inglaterra disputó el mundial de ese año en el que volvió a quedar eliminada esta vez en octavos de final frente a su temida Argentina. Esta camiseta quedó en la historia gracias a la figura inglesa David Beckham.",
+        "pais": "Inglaterra"
+    }
+]
